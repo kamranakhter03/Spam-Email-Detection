@@ -36,7 +36,7 @@ Spam-Email-Detection/
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/kamranakhter/Spam-Email-Detection.git
+   git clone https://github.com/kamranakhter03/Spam-Email-Detection.git
    cd Spam-Email-Detection
 
 2. **Install Dependencies**
