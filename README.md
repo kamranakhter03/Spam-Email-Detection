@@ -86,7 +86,7 @@ Output:
 
 Mohammad Kamran Akhter
 
-GitHub <https://github.com/kamranakhter>
+GitHub <https://github.com/kamranakhter03>
 
 LinkedIn <https://www.linkedin.com/in/kamranakhter03/>
 
